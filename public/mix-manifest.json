@@ -1,0 +1,20 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/Home.js": "/js/Home.js",
+    "/js/Login.js": "/js/Login.js",
+    "/js/Register.js": "/js/Register.js",
+    "/js/Account.js": "/js/Account.js",
+    "/js/Payment.js": "/js/Payment.js",
+    "/js/Security.js": "/js/Security.js",
+    "/js/Order.js": "/js/Order.js",
+    "/js/Receive.js": "/js/Receive.js",
+    "/js/Complete.js": "/js/Complete.js",
+    "/js/Voucher.js": "/js/Voucher.js",
+    "/js/Cart.js": "/js/Cart.js",
+    "/js/Store.js": "/js/Store.js",
+    "/js/StoreProduct.js": "/js/StoreProduct.js",
+    "/js/StoreSale.js": "/js/StoreSale.js",
+    "/js/Product.js": "/js/Product.js",
+    "/js/NotFound.js": "/js/NotFound.js",
+    "/css/app.css": "/css/app.css"
+}
